@@ -21,6 +21,8 @@
 
 ## 📷 Screenshots  
 ![Home Page](https://github.com/mistrychintan/UI-UX/blob/main/UI1.jpg)
+![](https://github.com/mistrychintan/UI-UX/blob/main/UI2.jpg)
+![](https://github.com/mistrychintan/UI-UX/blob/main/UI3.jpg)
 
 ## 🏁 Conclusion  
 This project showcases my ability to create a seamless and intuitive online shopping experience using UI/UX best practices. It was a valuable learning experience in crafting user-friendly digital solutions.  
