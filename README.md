@@ -20,7 +20,7 @@
 - **Mobile-Optimized Experience** for seamless interaction across devices.  
 
 ## 📷 Screenshots  
-!UI1.jpg 
+!(UI1.jpg) 
 
 ## 🏁 Conclusion  
 This project showcases my ability to create a seamless and intuitive online shopping experience using UI/UX best practices. It was a valuable learning experience in crafting user-friendly digital solutions.  
